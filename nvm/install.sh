@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/bash
 
 if [ ! -d /data/packages/nvm ]; then
   mkdir /data/nvm
